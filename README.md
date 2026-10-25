@@ -1,4 +1,4 @@
-# IDTECH-Final-Brain-Tumor-Project
+# NVIDIA-Final-Brain-Tumor-Project
 
 This code recognizes brain tumors from the given data set of MRI images and categorizes them  into 4 different classes (glioma, meningioma, pituitary, and no tumor)
 
